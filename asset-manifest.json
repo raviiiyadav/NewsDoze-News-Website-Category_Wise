@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsDoze-News-Website-Category_Wise/static/css/main.abd64e84.css",
+    "main.js": "/NewsDoze-News-Website-Category_Wise/static/js/main.73cd6ccd.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsDoze-News-Website-Category_Wise/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/NewsDoze-News-Website-Category_Wise/static/media/loading.69c643b5fe68f8e5844d.gif",
+    "index.html": "/NewsDoze-News-Website-Category_Wise/index.html",
+    "main.abd64e84.css.map": "/NewsDoze-News-Website-Category_Wise/static/css/main.abd64e84.css.map",
+    "main.73cd6ccd.js.map": "/NewsDoze-News-Website-Category_Wise/static/js/main.73cd6ccd.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsDoze-News-Website-Category_Wise/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.73cd6ccd.js"
+  ]
+}
